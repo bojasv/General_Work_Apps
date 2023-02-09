@@ -1,0 +1,5 @@
+How to send meeting invite that doesn't anticipate accept/decline response?
+It's quite useful while you're organizing an open event and inviting the mass and you really don't need to receive an Accept/Decline notification back with 
+why or not they will come or not.
+
+Meeting > Response Options > Uncheck 'Request Responses'
